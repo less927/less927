@@ -1,4 +1,3 @@
-![image](https://github.com/less927/less927/assets/154944595/ace0aef1-c564-40d8-b045-e03b83813d5e)![image](https://github.com/less927/less927/assets/154944595/8b055e9a-d67f-43a5-b764-b0c40e5fa74f)
 
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=less927)](https://github.com/less927)
